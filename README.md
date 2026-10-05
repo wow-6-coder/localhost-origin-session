@@ -1,5 +1,9 @@
-# localhost-origin-session
-Repository for ORIGIN session by Open Source dept. of localhost IIITP
+# My Project
 
-You can make changes in this repository, any changes.
-You may contribute to README.md file, or create your own new file from your local cloned repo.
+This is my **first Git project**.
+
+## Features
+
+- Easy to use
+- Free
+- Open source
